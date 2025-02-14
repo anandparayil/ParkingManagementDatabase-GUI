@@ -55,3 +55,9 @@ Compile and execute the Java application
 📌 Vehicles Table – Maintains records of parked vehicles
 
 📌 Bills Table – Tracks parking duration and calculates fees
+
+📜 License
+
+This project is licensed under the MIT License.
+
+🚀 Happy Coding! 🚀
