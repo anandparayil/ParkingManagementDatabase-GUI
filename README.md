@@ -34,11 +34,11 @@ Eclipse/IntelliJ IDE (Optional but recommended)
 
 git clone https://github.com/anandparayil/ParkingManagementDatabase-GUI.git
 
-cd ParkingManagementDatabase
+cd ParkingManagementDatabase-GUI
 
 2️⃣ Configure MySQL Database
 
-Import the provided parking_management.sql file into MySQL
+Import the provided SQL-Schema file into MySQL
 
 Update database credentials in the Java code
 
