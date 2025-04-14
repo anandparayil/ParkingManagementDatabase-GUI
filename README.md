@@ -1,10 +1,12 @@
-🚗 Parking Management System Database
+## 🚗 Parking Management System Database
 
-📌 Overview
+## 📌 Overview
 
 The Parking Management System is designed to efficiently handle vehicle parking operations, user registrations, and automated billing. It is built using Java (Swing for GUI) and MySQL to manage parking records seamlessly.
 
-✨ Features
+---
+
+## ✨ Features
 
 ✅ User Registration & Authentication – Secure login system for users
 
@@ -18,7 +20,9 @@ The Parking Management System is designed to efficiently handle vehicle parking 
 
 ✅ Real-time Database Integration – MySQL for storing and retrieving data
 
-🛠️ Installation
+---
+
+## 🛠️ Installation
 
 🔹 Prerequisites
 
@@ -48,7 +52,9 @@ Open the project in your preferred IDE
 
 Compile and execute the Java application
 
-🗂️ Database Schema
+---
+
+## 🗂️ Database Schema
 
 📌 Users Table – Stores user login credentials and contact details
 
@@ -56,8 +62,12 @@ Compile and execute the Java application
 
 📌 Bills Table – Tracks parking duration and calculates fees
 
-📜 License
+---
+
+## 📜 License
 
 This project is licensed under the MIT License.
+
+---
 
 🚀 Happy Coding! 🚀
